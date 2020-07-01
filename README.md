@@ -6,3 +6,5 @@ Each significant version/change is labled 'n# (description)'
 I finished implementing the ReLU activation function (n7). Next, I look to implement backpropagation.
 
 I followed sentdex's playlist on youtube:youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
+<a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/welcome/">Check out my other projects!</a>
